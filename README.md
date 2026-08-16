@@ -35,19 +35,25 @@ Before running the project, make sure you have the following installed:
 
 ### Installation
 Clone the repository:
+```
 git clone https://github.com/boluayeni72/calculator-app.git
-
+```
+```
 cd calculator-app
-
+```
+```
 flutter pub get
-
+```
+```
 flutter run
-
+```
+``` 
 flutter build apk --release
-
+```
 The generated APK can be found at:
+```
 build/app/outputs/flutter-apk/app-release.apk
-
+```
 ### 📸 Screenshots
 <img src="C:\Users\ADMIN\Downloads\Screenshot_20260816_200202.png"/>
 
@@ -66,6 +72,6 @@ build/app/outputs/flutter-apk/app-release.apk
 - Creating release APKs
 - Preparing and publishing projects on GitHub
 
-👨‍💻 Author
+### 👨‍💻 Author
   Boluwatife Ayeni
 This project is part of my ongoing journey into software and mobile application development.
