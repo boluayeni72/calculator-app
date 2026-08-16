@@ -55,7 +55,7 @@ The generated APK can be found at:
 build/app/outputs/flutter-apk/app-release.apk
 ```
 ### 📸 Screenshots
-<img height="100" src="C:\Users\ADMIN\Downloads\Screenshot_20260816_200202.png" width="50"/>
+![Calculator App](screenshots/Screenshot_20260816_200202.png)
 
 ### 🧠 What I Learned
 - Building this project helped me strengthen my understanding of:
