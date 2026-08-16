@@ -55,7 +55,7 @@ The generated APK can be found at:
 build/app/outputs/flutter-apk/app-release.apk
 ```
 ### 📸 Screenshots
-<img src="C:\Users\ADMIN\Downloads\Screenshot_20260816_200202.png"/>
+<img height="100" src="C:\Users\ADMIN\Downloads\Screenshot_20260816_200202.png" width="50"/>
 
 ### 🧠 What I Learned
 - Building this project helped me strengthen my understanding of:
@@ -71,7 +71,3 @@ build/app/outputs/flutter-apk/app-release.apk
 - Managing application state
 - Creating release APKs
 - Preparing and publishing projects on GitHub
-
-### 👨‍💻 Author
-  Boluwatife Ayeni
-This project is part of my ongoing journey into software and mobile application development.
