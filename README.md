@@ -1,4 +1,4 @@
-# 🧮 Calculator App
+#  Calculator App
 A simple, clean, and functional calculator application built with Flutter and Dart.
 
 This project was developed as part of my journey into mobile app development. It focuses on implementing calculator logic, handling user input, building reusable UI components, and creating a clean and responsive interface.
@@ -55,7 +55,7 @@ The generated APK can be found at:
 build/app/outputs/flutter-apk/app-release.apk
 ```
 ### 📸 Screenshots
-![Calculator App](screenshots/Screenshot_20260816_200202.png)
+![Calculator App](screenshot/Screenshot_20260816_200202.png)
 
 ### 🧠 What I Learned
 - Building this project helped me strengthen my understanding of:
